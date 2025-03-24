@@ -42,7 +42,7 @@ The evolution of software engineering has been shaped by numerous milestones tha
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
-The **Software Development Life Cycle (SDLC)** consists of several phases that guide the creation of software. Here’s a brief overview:
+The Software Development Life Cycle (SDLC) consists of several phases that guide the creation of software. Here’s a brief overview:
 
 1. Planning: Define project goals, requirements, scope, and constraints.
 2. Feasibility Study: Assess technical, operational, and financial feasibility of the project.
@@ -71,7 +71,7 @@ In a software engineering team, different roles contribute to the success of a p
      - Participate in code reviews to ensure code quality and adherence to standards.
      - Keep up with new technologies and implement best practices.
 
- 2. Quality Assurance (QA) Engineer:**
+ 2. Quality Assurance (QA) Engineer:
    Role: Ensures the software is reliable, functional, and meets the quality standards.
    - Responsibilities:
      - Create and execute test plans, test cases, and automated tests to identify software defects.
@@ -149,7 +149,7 @@ Software engineers face a variety of challenges throughout the development proce
      - Use of Debugging Tools: Leverage debugging tools in IDEs to step through the code, inspect variables, and track issues in real time.
      - Logging and Monitoring: Add logging to track application behavior in production and identify potential problems early.
 
- 3. **Managing Time and Meeting Deadlines:
+ 3. Managing Time and Meeting Deadlines:
    - Challenge: Software projects often have tight deadlines, and balancing development speed with the need for quality and accuracy can be tough.
    - trategy to Overcome:
      - Agile Methodologies: Adopt agile practices, such as Scrum or Kanban, to break the project into smaller, manageable tasks and deliver incremental progress.
